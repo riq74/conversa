@@ -73,7 +73,7 @@
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
-                        'Authorization': `Bearer ${OPENAI_API_KEY}`,
+                        'Authorization': `Bearer ${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}`,
                     },
                     body: JSON.stringify({
                         model: 'gpt-3.5-turbo',
